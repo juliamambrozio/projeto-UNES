@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+    background-image: url(imagens/fundo.png);
+}
+
+header img{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+
+li.menu{
+    list-style: none;
+    margin: 5px;
+}
+
+a{
+    margin: 10px;
+}
+
+ul{
+    display: flex;
+    position: absolute;
+    left: 800px;
+    top: 20px;
+}
+
+
+
+p.direitos{
+    text-align: center;
+}
+
+
+div.imagem-central{
+    text-align: center;  
+    margin-top: 30px;
+}
+
+div.conteudo{
+    position: absolute;
+    top: 130px;
+    left: 240px;
+}
+
+h2, p{
+text-align: justify;
+width: 800px;
+}
