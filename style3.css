@@ -51,3 +51,7 @@ h2, p{
 text-align: justify;
 width: 800px;
 }
+
+label{
+margin-top: 10px;
+}
